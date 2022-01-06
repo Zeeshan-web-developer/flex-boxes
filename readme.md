@@ -11,5 +11,7 @@
 **flex-grow*** :works on flex-items if we want to increase the width
 ![](flex-grow)![](file:///C:/Users/zeeshan/Pictures/flex-grow.PNG)
 * **align-self**:works on single element and vertically top to bottom
+* **Flex-basis**:Handling width flex-items
+* **Flex-shrink**:
 
 
